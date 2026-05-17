@@ -36,6 +36,19 @@ export default function Experience() {
         />
 
         <ExpItem 
+          date="2026 - PRESENT"
+          org="Dink TV"
+          loc="Addis Ababa, ET"
+          role="Investment & Strategic Partnership - Office of the CEO"
+          isCurrent
+          bullets={[
+            "Support investment and strategic partnership initiatives for the CEO, including opportunity screening and partner engagement.",
+            "Assist with research, briefing materials, and strategic analysis for media, business development, and growth opportunities.",
+            "Coordinate partnership discussions and follow-up actions with internal and external stakeholders."
+          ]}
+        />
+
+        <ExpItem 
           date="NOV 2022 – DEC 2025"
           org="Addis International Bank"
           loc="Addis Ababa, ET"

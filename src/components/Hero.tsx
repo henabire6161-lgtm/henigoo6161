@@ -34,8 +34,8 @@ export default function Hero() {
           // PROFILE METRICS
         </div>
         <StatRow label="LOCATION" value="Addis Ababa, ET" />
-        <StatRow label="CURRENT Company" value="Ignite Capital PLC" />
-        <StatRow label="POSITION" value="Research Officer & Business Development Lead" />
+        <StatRow label="CURRENT COMPANY" value="Ignite Capital PLC" />
+        <StatRow label="POSITION" value="Research Officer / BD Lead" />
         <StatRow label="CONTENT PIECES" value="70+" />
         <StatRow label="YRS EXPERIENCE" value="3+" />
         <StatRow label="CERTIFICATIONS" value="CISI LVL 3" />
