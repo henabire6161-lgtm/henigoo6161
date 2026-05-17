@@ -39,7 +39,7 @@ export default function Experience() {
           date="2026 - PRESENT"
           org="Dink TV"
           loc="Addis Ababa, ET"
-          role="Investment & Strategic Partnership - Office of the CEO"
+          role="Investment and Strategic Partnership Advisor - Office of the CEO"
           isCurrent
           bullets={[
             "Support investment and strategic partnership initiatives for the CEO, including opportunity screening and partner engagement.",
