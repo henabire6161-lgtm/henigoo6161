@@ -4,10 +4,10 @@ export default function About() {
       <SectionHeader number="01" title="About" />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div className="text-[14px] text-text2 leading-[1.8]">
-          <p className="mb-4">I'm a finance and capital markets professional based in Addis Ababa, Ethiopia, with a track record spanning banking operations, equity research, and entrepreneurship ecosystem development.</p>
-          <p className="mb-4">At Ignite Capital PLC, I conduct in-depth securities analysis, produce research reports aligned with ECMA guidelines, and monitor real-time market developments to support institutional investment decisions.</p>
-          <p className="mb-4">Beyond my professional work, I'm deeply committed to investor education in Ethiopia. Through over 70 pieces of content on capital markets, I'm helping everyday Ethiopians understand how financial markets work, how to evaluate investments, and how to build long-term wealth.</p>
-          <p>I hold a CISI Level 3 certification and am currently pursuing the SIE (Securities Industry Essentials) exam to further sharpen my qualifications in global securities markets.</p>
+          <p className="mb-4">I’m the founder of Aheya Digital Communication &amp; Consultancy, a venture built to turn ideas, research, and conversations into practical impact for businesses and communities.</p>
+          <p className="mb-4">I also host Capital Pulse Ethiopia, a podcast program that brings together guests and professionals to make capital markets, finance, leadership, and youth entrepreneurship more accessible. The program is designed to strengthen financial capability and create useful conversations for Ethiopia’s next generation of founders and investors.</p>
+          <p className="mb-4">My work combines capital markets research, investor education, business development, and communication. Through more than 70 pieces of content, I help everyday Ethiopians understand markets, evaluate opportunities, and build long-term financial confidence.</p>
+          <p>I hold a CISI Level 3 certification and am preparing for the SIE (Securities Industry Essentials) exam to continue building my global securities-market knowledge.</p>
         </div>
         <div className="bg-bg2 border border-border">
           <div className="bg-bg3 px-4 py-[10px] font-mono text-[10px] text-text3 tracking-[0.12em] uppercase border-b border-border">
