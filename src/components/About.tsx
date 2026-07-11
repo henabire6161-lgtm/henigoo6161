@@ -4,10 +4,7 @@ export default function About() {
       <SectionHeader number="01" title="About" />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div className="text-[14px] text-text2 leading-[1.8]">
-          <p className="mb-4">I’m the founder of Aheya Digital Communication &amp; Consultancy, a venture built to turn ideas, research, and conversations into practical impact for businesses and communities.</p>
-          <p className="mb-4">I also host Capital Pulse Ethiopia, a podcast program that brings together guests and professionals to make capital markets, finance, leadership, and youth entrepreneurship more accessible. The program is designed to strengthen financial capability and create useful conversations for Ethiopia’s next generation of founders and investors.</p>
-          <p className="mb-4">My work combines capital markets research, investor education, business development, and communication. Through more than 70 pieces of content, I help everyday Ethiopians understand markets, evaluate opportunities, and build long-term financial confidence.</p>
-          <p>I hold a CISI Level 3 certification and am preparing for the SIE (Securities Industry Essentials) exam to continue building my global securities-market knowledge.</p>
+          <p>Dynamic Research and Customer Service Professional with extensive experience in financial services, stakeholder engagement, and ecosystem research within Ethiopia's regulated environment. Proven ability to communicate complex information to diverse audiences, coordinate cross-functional teams, and lead collaborative initiatives involving entrepreneurs, financial institutions, and development partners. Skilled in event coordination, relationship management, team collaboration, and capacity-building initiatives, with a strong commitment to fostering innovation and entrepreneurship. Adept at delivering research-driven insights, facilitating stakeholder discussions, and building strategic partnerships that support organizational objectives.</p>
         </div>
         <div className="bg-bg2 border border-border">
           <div className="bg-bg3 px-4 py-[10px] font-mono text-[10px] text-text3 tracking-[0.12em] uppercase border-b border-border">
