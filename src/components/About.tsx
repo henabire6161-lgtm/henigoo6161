@@ -4,10 +4,7 @@ export default function About() {
       <SectionHeader number="01" title="About" />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div className="text-[14px] text-text2 leading-[1.8]">
-          <p className="mb-4">I'm a finance and capital markets professional based in Addis Ababa, Ethiopia, with a track record spanning banking operations, equity research, and entrepreneurship ecosystem development.</p>
-          <p className="mb-4">At Ignite Capital PLC, I conduct in-depth securities analysis, produce research reports aligned with ECMA guidelines, and monitor real-time market developments to support institutional investment decisions.</p>
-          <p className="mb-4">Beyond my professional work, I'm deeply committed to investor education in Ethiopia. Through over 70 pieces of content on capital markets, I'm helping everyday Ethiopians understand how financial markets work, how to evaluate investments, and how to build long-term wealth.</p>
-          <p>I hold a CISI Level 3 certification and am currently pursuing the SIE (Securities Industry Essentials) exam to further sharpen my qualifications in global securities markets.</p>
+          <p>Dynamic Research and Customer Service Professional with extensive experience in financial services, stakeholder engagement, and ecosystem research within Ethiopia's regulated environment. Proven ability to communicate complex information to diverse audiences, coordinate cross-functional teams, and lead collaborative initiatives involving entrepreneurs, financial institutions, and development partners. Skilled in event coordination, relationship management, team collaboration, and capacity-building initiatives, with a strong commitment to fostering innovation and entrepreneurship. Adept at delivering research-driven insights, facilitating stakeholder discussions, and building strategic partnerships that support organizational objectives.</p>
         </div>
         <div className="bg-bg2 border border-border">
           <div className="bg-bg3 px-4 py-[10px] font-mono text-[10px] text-text3 tracking-[0.12em] uppercase border-b border-border">

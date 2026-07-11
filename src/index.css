@@ -10,20 +10,20 @@
   --color-bg3: #1e293b;
   --color-border: #1e293b;
   --color-border2: #334155;
-  --color-accent: #00d4aa;
-  --color-accent2: #0099ff;
+  --color-accent: #38bdf8;
+  --color-accent2: #2563eb;
   --color-text: #e8edf2;
   --color-text2: #8a95a3;
   --color-text3: #5a6472;
   --color-red: #ff4d4d;
-  --color-green: #00c896;
+  --color-green: #38bdf8;
 }
 
 @layer base {
   body {
     @apply bg-bg text-text font-sans text-[14px] leading-[1.6] overflow-x-hidden;
   }
-  
+
   html {
     @apply scroll-smooth;
   }

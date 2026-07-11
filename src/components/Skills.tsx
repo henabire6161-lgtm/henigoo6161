@@ -15,12 +15,12 @@ export default function Skills() {
       tags: ["Securities Analysis", "Investment Research", "ECMA Guidelines", "Investor Education", "Portfolio Analysis"]
     },
     {
-      title: "Compliance & Risk",
-      tags: ["KYC / EDD", "AML / CTF", "Regulatory Frameworks", "NBE Directives", "PEP Screening"]
+      title: "Entrepreneurship & Programs",
+      tags: ["Startup Strategy", "Youth Entrepreneurship", "Program Design", "Partnerships", "Capacity Building"]
     },
     {
-      title: "Communication",
-      tags: ["Report Writing", "Presentations", "Stakeholder Mgmt", "Content Creation", "English · Amharic"]
+      title: "Communication & Hosting",
+      tags: ["Podcast Hosting", "Moderation", "Public Speaking", "Content Creation", "English · Amharic"]
     },
     {
       title: "Tools & Platforms",
