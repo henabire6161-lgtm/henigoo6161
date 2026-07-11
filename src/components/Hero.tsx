@@ -1,3 +1,5 @@
+import { profilePhoto } from '../assets/profilePhoto';
+
 export default function Hero() {
   return (
     <div className="px-6 md:px-10 py-12 md:py-20 max-w-[1100px] mx-auto grid grid-cols-1 lg:grid-cols-[1fr_340px] gap-12 md:gap-[60px] items-start">
@@ -32,7 +34,7 @@ export default function Hero() {
       <div className="bg-bg2 border border-border overflow-hidden">
         <div className="relative border-b border-border">
           <img
-            src="/henok-berhanu-kebede.jpg"
+            src={profilePhoto}
             alt="Henok Berhanu Kebede"
             className="w-full aspect-square object-cover object-center"
           />
