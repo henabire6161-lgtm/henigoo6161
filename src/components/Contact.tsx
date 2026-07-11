@@ -3,7 +3,6 @@ import { SectionHeader } from './About';
 
 export default function Contact() {
   useEffect(() => {
-    // Re-initialize LinkedIn badges on mount
     const script = document.createElement('script');
     script.src = "https://platform.linkedin.com/badges/js/profile.js";
     script.async = true;
@@ -24,12 +23,12 @@ export default function Contact() {
   ];
 
   const opportunities = [
-    "Equity / securities research roles",
-    "Capital markets analyst positions",
-    "Investment research collaborations",
-    "Content partnerships in finance & investing",
-    "Speaking & financial literacy programs",
-    "International finance opportunities"
+    "Capital markets education partnerships",
+    "Podcast hosting and panel moderation",
+    "Youth entrepreneurship programs",
+    "Financial literacy workshops",
+    "Strategic communication consulting",
+    "Speaking engagements and collaborations"
   ];
 
   return (
@@ -38,11 +37,11 @@ export default function Contact() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div>
           <div className="text-[18px] font-light leading-[1.5] mb-7 text-text">
-            Interested in research collaboration, content partnerships, or capital markets discussions?
+            Let’s create clearer conversations about markets, entrepreneurship, and the opportunities ahead.
           </div>
           <div className="flex flex-col gap-3">
             {contactLinks.map((link, i) => (
-              <a 
+              <a
                 key={i}
                 href={link.href}
                 target="_blank"
@@ -59,7 +58,7 @@ export default function Contact() {
           <div>
             <div className="font-mono text-[10px] text-text3 tracking-[0.12em] uppercase mb-4">// OPEN TO</div>
             <p className="text-[13px] text-text2 leading-[1.7] mb-4">
-              I'm actively looking for opportunities to expand my work in capital markets research, financial analysis, and investor education.
+              I welcome projects and conversations that expand financial knowledge, strengthen entrepreneurship, and connect people with practical ideas.
             </p>
             <ul className="list-none flex flex-col gap-2">
               {opportunities.map((opp, i) => (
@@ -69,20 +68,19 @@ export default function Contact() {
               ))}
             </ul>
           </div>
-          
+
           <div className="mt-auto pt-6 border-t border-border flex justify-center">
-            {/* LinkedIn Badge */}
-            <div 
-              className="badge-base LI-profile-badge" 
-              data-locale="en_US" 
-              data-size="medium" 
-              data-theme="dark" 
-              data-type="HORIZONTAL" 
-              data-vanity="henok-berhanu-kebede-🇪🇹-118475244" 
+            <div
+              className="badge-base LI-profile-badge"
+              data-locale="en_US"
+              data-size="medium"
+              data-theme="dark"
+              data-type="HORIZONTAL"
+              data-vanity="henok-berhanu-kebede-🇪🇹-118475244"
               data-version="v1"
             >
-              <a 
-                className="badge-base__link LI-simple-link" 
+              <a
+                className="badge-base__link LI-simple-link"
                 href="https://et.linkedin.com/in/henok-berhanu-kebede-%F0%9F%87%AA%F0%9F%87%B9-118475244?trk=profile-badge"
               >
                 Henok Berhanu Kebede
